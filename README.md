@@ -31,3 +31,4 @@ Details of the analyzed contract
 List of vulnerabilities found
 Severity of each vulnerability
 Detailed description of each issue
+![Captura de pantalla 2025-01-13 152500](https://github.com/user-attachments/assets/023a5767-862f-4e9c-b058-e8b132ef95a8)
